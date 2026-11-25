@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Csharp
+class Program
 {
-    internal class main
+    static void Main()
     {
+        Console.Write("gffdff");
     }
 }
+
+
